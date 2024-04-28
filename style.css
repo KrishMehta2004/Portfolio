@@ -165,7 +165,7 @@ nav {
 
 @keyframes myAnimation {
   0% {
-    background-image: url("/images/space_4.JPG");
+    background-image: url("images/space_4.JPG");
   }
   10%{
     background-image: url("/images/space_4.jpg");
